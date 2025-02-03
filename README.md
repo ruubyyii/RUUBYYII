@@ -3,7 +3,10 @@
   <h1 align="center"> Hola a todos, soy Ruubyyii👋 </h1>
 </div>
 
-![Alt center](https://i.redd.it/a2uu1v9hqvhb1.gif)
+<div align="center">
+  ![Alt text](https://i.redd.it/a2uu1v9hqvhb1.gif)
+</div>
+
 
 - 🔭 Generalmente trabajando con: Python, Javascript, CSS, HTML,Vue,Flask
 - 📫 Contactame por correo: rubyyii65@gmail.com 
