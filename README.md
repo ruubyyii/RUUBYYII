@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  ![Alt text](https://i.redd.it/a2uu1v9hqvhb1.gif)
+  <img src='https://i.redd.it/a2uu1v9hqvhb1.gif'>  
 </div>
 
 
