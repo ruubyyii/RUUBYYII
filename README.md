@@ -10,11 +10,11 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub de Rajnaroc](https://github-readme-stats.vercel.app/api?username=rajnaroc&show_icons=true&theme=radical)
+![Estadísticas de GitHub de Ruubyyii](https://github-readme-stats.vercel.app/api?username=ruubyyii&show_icons=true&theme=radical)
 
 ## Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnaroc&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ruubyyii&layout=compact&theme=radical)
 
 ## Lenguajes y Herramientas
 
