@@ -3,7 +3,7 @@
   <h1 align="center"> Hola a todos, soy Ruubyyii👋 </h1>
 </div>
 
-<div align="center">
+<div align="start">
   <img src='https://i.redd.it/a2uu1v9hqvhb1.gif'>  
 </div>
 
